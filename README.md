@@ -23,7 +23,7 @@ Welcome to Tic Tac Toe! This is a simple web-based game where two players take t
 ## Installation
 
 To set up the Tic Tac Toe game locally, follow these steps : 
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/AnushakaPandey03/tic-tac-toe.git
 
 Open the index.html file in your browser:
 You can do this by dragging the file into your browser or using a live server extension if you're using a code editor like Visual Studio Code.
